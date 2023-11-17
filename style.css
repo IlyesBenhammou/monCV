@@ -9,13 +9,15 @@ body {
       height: 099%;
       display: flex ;
       flex-direction: column;
-}
+  
+
+    }
 
 #moncercle{
       background:#ffffff;
       border-radius:50%;
-      width: 80%;
-      height: 20%;
+      width: 75%;
+      height: 19%;
       border:4px solid #000000;
     
       margin:auto;
@@ -25,7 +27,10 @@ main{
      display: flex;
      justify-content: space-between;
      height: 100%;
-}
+     margin: 0 auto;
+    margin-left: auto 0;
+    margin-right: auto 0;
+  }
 
 
 
@@ -48,6 +53,41 @@ main{
   border:solid #000000;
   border-radius: 20px;
   text-align: center;
+}
+
+
+
+
+#size{
+  font-size: 11px;
+}
+#s2{
+  font-size: 11px;
+}
+#s3
+{
+  font-size: 11px;
+}
+
+
+#CP-tech{
+  background-color: rgb(255, 255, 255);
+  border:solid #000000;
+  border-radius: 20px;
+  text-align: center;
+ 
+}
+
+
+#CT{
+  background-color: rgb(255, 255, 255);
+  border:solid #000000;
+  border-radius: 20px;
+  text-align: center;
+}
+
+#Apagnan{
+        font-size: 11px;
 }
 
 
@@ -137,11 +177,6 @@ main{
 }
   
 
-
-#id{ 
-  
-
-}
 
 
 
